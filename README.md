@@ -16,13 +16,13 @@ npm run dev
 ## 📸 Screenshots
 
 ### 🛒 Cart Modal
-![Cart](./docs/screenshots/cart.png)
+![Cart](./docs/cart.png)
 
 ### ➕ Add to Cart
-![Add To Cart](./docs/screenshots/addtocart.png)
+![Add To Cart](./docs/addtocart.png)
 
 ### 🧾 Product List
-![Product List](./docs/screenshots/itemslist.png)
+![Product List](./docs/itemslist.png)
 
 
 ## ✨ Features
